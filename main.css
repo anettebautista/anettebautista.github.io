@@ -1,0 +1,13 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+	background-image: url(images/nicepic.jpg);
+	background-size: cover;
+	background-position: center center;
+}
+#description2 {
+	background-color: white;
+	padding: 5px;
+	border: 10px white;
+	overflow: auto;
+	line-height: 1.6;
+}
