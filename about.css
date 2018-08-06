@@ -1,19 +1,18 @@
 #Anettepic {
 	-webkit-transform: rotate(90deg);
 	margin-top: 100px;
-	border:black 3px solid;
+	border: black 3px solid;
 	box-shadow: 5px 5px 5px grey;
 	float: left;
-
 }
 
 @media only screen and (max-width: 600px) {
-	img {
-	-webkit-transform: rotate(90deg);
+	#Anettepic {
+	-webkit-transform: rotate(0deg);
+	transform: rotate(0deg);
 	margin-top: 100px;
-	border:black 3px solid;
+	border: purple 3px solid;
 	box-shadow: 5px 5px 5px grey;
-	float: left;
 	}
 }
 /*
