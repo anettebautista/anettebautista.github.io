@@ -10,9 +10,13 @@
 	#Anettepic {
 	-webkit-transform: rotate(0deg);
 	transform: rotate(0deg);
-	margin-top: 100px;
+	margin-top: 30px;
 	border: purple 3px solid;
 	box-shadow: 5px 5px 5px grey;
+	width: 90%;
+	}
+	#page_title_text {
+
 	}
 }
 /*
